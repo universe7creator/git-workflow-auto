@@ -1,0 +1,10 @@
+{
+  "slug": "git-workflow-auto",
+  "name": "Git Workflow Automator",
+  "tagline": "Paste a diff, get a complete git workflow",
+  "price": 12,
+  "payment_provider": "polar",
+  "status": "ready_for_payment",
+  "repository": "universe7creator/git-workflow-auto",
+  "deploy_url": "https://git-workflow-auto.vercel.app"
+}
