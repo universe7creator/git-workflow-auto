@@ -6,5 +6,9 @@
   "payment_provider": "polar",
   "status": "ready_for_payment",
   "repository": "universe7creator/git-workflow-auto",
-  "deploy_url": "https://git-workflow-auto.vercel.app"
+  "deploy_url": "https://git-workflow-auto.vercel.app",
+  "checkout_url": "https://buy.polar.sh/polar_cl_S5aixwUgMLnvaD6LXoMnkHFNsJIjuy8OFL5Ek45nIIa",
+  "polar_product_id": "9a2840e8-8b73-42a5-b0cf-0046c62328f3",
+  "polar_product_price_id": "3c7fc80e-44b1-409c-9385-fdb8fa88d0a4",
+  "polar_checkout_link_id": "c350e481-e1c3-4065-8041-a4352806fa1c"
 }
